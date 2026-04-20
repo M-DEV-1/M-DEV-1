@@ -7,3 +7,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/M-DEV-1/M-DEV-1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/M-DEV-1/M-DEV-1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
+<p align="center">
+<a href="https://mdev1.me">mdev1.me</a> . <a href="https://x.com/mdev_1">x/@mdev_1</a> . <a href="https://scholar.google.com/citations?user=02QhjckAAAAJ">scholar</a>
+</p>
